@@ -1,6 +1,6 @@
 package ru.pas.javalearn;
 
-public class JavaLambda {
+public class FunctionalGenericInterface {
 
     @FunctionalInterface // Проверяет что Интерфейс Функциональный
     private interface MyInterface {

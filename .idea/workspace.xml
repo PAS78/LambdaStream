@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1ace0b5-83b2-43b1-8b25-f71a66aa5ebb" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="c1ace0b5-83b2-43b1-8b25-f71a66aa5ebb" name="Changes" comment="РеФакт">
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/pas/javalearn/JavaLambda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/pas/javalearn/FunctionalGenericInterface.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,8 +46,8 @@
     </key>
   </component>
   <component name="RunManager" selected="Application.SportsCampMainStream">
-    <configuration name="JavaLambda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.pas.javalearn.JavaLambda" />
+    <configuration name="FunctionalGenericInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.pas.javalearn.FunctionalGenericInterface" />
       <module name="LambdaStreem" />
       <extension name="coverage">
         <pattern>
@@ -75,7 +75,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.SportsCampMainStream" />
-        <item itemvalue="Application.JavaLambda" />
+        <item itemvalue="Application.FunctionalGenericInterface" />
       </list>
     </recent_temporary>
   </component>
@@ -88,6 +88,29 @@
       <option name="presentableId" value="Default" />
       <updated>1673918551878</updated>
     </task>
+    <task id="LOCAL-00001" summary="РеФакт">
+      <created>1673920228418</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673920228418</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="РеФакт" />
+    <option name="LAST_COMMIT_MESSAGE" value="РеФакт" />
   </component>
 </project>
